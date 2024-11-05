@@ -1,4 +1,4 @@
-# Where-s-Whale-do-DrivenData-Competition-2nd-Place solution
+# Where-s-Whale-do-DrivenData-Competition-2nd-Place Solution
 
 2nd Place solution for Where's Whale do? competition 03.07.2022
 
