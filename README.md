@@ -5,3 +5,5 @@
 https://www.drivendata.org/competitions/96/beluga-whales/page/576/
 
 https://drivendata.co/blog/belugas-winners
+
+https://github.com/drivendataorg/wheres-whale-do
